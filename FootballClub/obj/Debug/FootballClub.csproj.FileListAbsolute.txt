@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\bin\Debug\FootballClub.exe.config
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\bin\Debug\FootballClub.exe
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\bin\Debug\FootballClub.pdb
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\obj\Debug\FootballClub.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\obj\Debug\FootballClub.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\obj\Debug\FootballClub.exe
+C:\Users\Dawan\source\repos\FormationPOO\FootballClub\obj\Debug\FootballClub.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\obj\Debug\Exercice01.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\obj\Debug\Exercice01.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\bin\Debug\Exercice01.exe.config
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\bin\Debug\Exercice01.exe
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\bin\Debug\Exercice01.pdb
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\obj\Debug\Exercice01.exe
+C:\Users\Dawan\source\repos\FormationPOO\Exercice01\obj\Debug\Exercice01.pdb
